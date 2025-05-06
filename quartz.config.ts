@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: false,
     analytics: null,
     locale: "en-US",
-    baseUrl: "hipp.ovh",
+    baseUrl: "mo-krauti.github.io/quartz-website",
     ignorePatterns: ["private", "templates", ".obsidian", ".git"],
     defaultDateType: "modified",
     theme: {
